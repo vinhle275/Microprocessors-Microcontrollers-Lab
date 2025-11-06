@@ -1,0 +1,7 @@
+fsm_manual.c:12:6:fsm_manual	8	static
+fsm_manual.c:54:6:init_handler	8	static
+fsm_manual.c:61:6:red_handler	8	static
+fsm_manual.c:70:6:amber_handler	8	static
+fsm_manual.c:79:6:green_handler	8	static
+fsm_manual.c:89:6:errorG_handler	8	static
+fsm_manual.c:93:6:errorRY_handler	8	static

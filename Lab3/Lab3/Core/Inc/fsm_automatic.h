@@ -1,0 +1,13 @@
+/*
+ * fsm_automatic.h
+ *
+ *  Created on: Oct 31, 2025
+ *      Author: Vinh Le
+ */
+
+#ifndef INC_FSM_AUTOMATIC_H_
+#define INC_FSM_AUTOMATIC_H_
+
+void fsm_automatic(void);
+
+#endif /* INC_FSM_AUTOMATIC_H_ */

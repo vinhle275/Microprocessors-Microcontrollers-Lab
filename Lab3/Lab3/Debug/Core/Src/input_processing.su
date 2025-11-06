@@ -1,0 +1,5 @@
+input_processing.c:19:6:button_processing	16	static
+input_processing.c:54:6:setup_newstate	8	static
+input_processing.c:117:6:immediately_press_handler	16	static
+input_processing.c:210:6:immediately_1s_press	16	static
+input_processing.c:215:6:continuously_press_handler	16	static
