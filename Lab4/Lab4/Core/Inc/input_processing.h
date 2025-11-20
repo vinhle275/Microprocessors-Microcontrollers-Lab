@@ -15,7 +15,6 @@ void immediately_press_handler(int idx);
 void immediately_1s_press(int idx);
 void continuously_press_handler(int idx);
 
-void fsm_run(void);
 void button_processing(void);
 
 #endif /* INC_INPUT_PROCESSING_H_ */
