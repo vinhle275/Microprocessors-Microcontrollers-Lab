@@ -1,0 +1,2 @@
+uart_communiation_fsm.c:16:6:uart_communication_fsm	16	static
+uart_communiation_fsm.c:50:6:send_again	8	static
